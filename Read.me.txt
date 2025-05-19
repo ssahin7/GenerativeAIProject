@@ -1,1 +1,3 @@
-Bu Proje Üretken Yapay Zeka Dersi İçin Oluşturulmuş Generative bir görsel üretme projesidir. Var Olan Mimarilerin özelleştirilmesi ile yeni mimariler oluşturulmuştur. Başarılı Olunmasa da Hibrit VAE-GAN mimarisi de ekstra bir kod dosyası içinde belirtilmiştir. Ayrıca mimarilerin anlatıldığı videoyu da indirip inceleyebilirsiniz.
+Bu Proje Üretken Yapay Zeka Dersi İçin Oluşturulmuş Generative bir görsel üretme projesidir. 
+Var Olan Mimarilerin özelleştirilmesi ile yeni mimariler oluşturulmuştur. 
+Başarılı Olunmasa da Hibrit VAE-GAN mimarisi de ekstra bir kod dosyası içinde belirtilmiştir. Ayrıca mimarilerin anlatıldığı videoyu da indirip inceleyebilirsiniz.
