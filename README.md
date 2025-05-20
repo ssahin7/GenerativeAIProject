@@ -58,3 +58,8 @@ Adımlar
 Çıktılar
 
 Gerçekçi görünümlü bir yüz görüntüsü
+
+Ek
+
+Başarılı Olunmasa da Hibrit VAE-GAN mimarisi de ekstra bir kod dosyası içinde belirtilmiştir. Ayrıca mimarilerin anlatıldığı videoyu da indirip inceleyebilirsiniz.
+Veri Setine Ait Videolara da https://drive.google.com/drive/folders/1zi33bhQBbDwTMIgJhID4ZH2QKIeVE7Um?usp=sharing linkinden ulaşabilirsiniz.
