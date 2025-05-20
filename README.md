@@ -18,29 +18,25 @@ Kullanılan Teknolojiler
 
 Python 3.10
 
-DeepFaceLab / FaceSwap – Yüz sentezi ve morflama
+DCGAN / FaceSwap – Yüz sentezi ve morflama
 
-StyleGAN2 / StyleGAN3 – Sentetik yüz üretimi
-
-Tacotron2 + WaveGlow – Ses sentezi
-
-BERT / GPT – Kişilik metni üretimi
+BetaVEA/ VAE – Sentetik yüz üretimi
 
 OpenCV / dlib – Görsel işleme
 
 
 Veri Kaynakları
 
-Gerçek kişi A: Görsel + ses + metin
+Gerçek kişi A: Görsel 
 
-Gerçek kişi B: Görsel + ses + metin
+Gerçek kişi B: Görsel 
 
 
 Veriler etik kurallar çerçevesinde ve izinli olarak temin edilmiştir.
 
 Adımlar
 
-1. Veri Toplama: İki kişiye ait yüz, ses ve metin verileri toplanır.
+1. Veri Toplama: İki kişiye ait videolardan karelema yöntemi ile yüz  verileri toplanır.
 
 
 2. Embed Kodlama: Her veri türü embedding'e dönüştürülür.
@@ -50,9 +46,6 @@ Adımlar
 
 
 4. Yüz Üretimi: VAE ile özelleştirilmiş embedding'e uygun yüz sentezlenir.
-
-
-
 
 
 Çıktılar
