@@ -1,4 +1,4 @@
-Sentetik Kişilik Üretimi Projesi
+Sentetik Kişi Üretimi Projesi
 
 Proje Hakkında
 
